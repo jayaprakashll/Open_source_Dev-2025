@@ -52,7 +52,7 @@ We are excited to invite developers, designers, and enthusiasts from all around 
 ## Join the Community
 Let’s grow together! 🌱
 - Share your progress and connect with others using the hashtag **#OpenSourceDev2025**.
-- Join our [Discord server](https://discord.gg/example) for real-time collaboration.
+- Join our [Discord server](https://discord.gg/AXgpxjdm) for real-time collaboration.
 
 ## Acknowledgments
 Thank you for being part of this journey. Your contributions make a difference!
